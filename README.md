@@ -23,3 +23,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier-WW&repo=Portfolio-three-JS&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier-WW&repo=Portfolio&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier-WW&repo=Degree-project&theme=graywhite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier-WW&repo=IoT-Arduino&theme=discord_old_blurple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
