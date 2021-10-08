@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Xavier's github Stats](https://github-readme-stats.vercel.app/api?username=Xavier-WW&theme=solarized-light)
+![Xavier's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier-WW&theme=material-palenight&hide_langs_below=1&layout=compact)
 
 <!--
 **Xavier-WW/Xavier-WW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
