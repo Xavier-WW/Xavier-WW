@@ -4,7 +4,7 @@
 - 🤖 I’m currently testing and remapping🗺️ some new tech;
 - 🌋 Let's see what will come out;
 - 📂 See my repo below and hope we can discover some fun stuff;
-- 
+
 ![Xavier's github Stats](https://github-readme-stats.vercel.app/api?username=Xavier-WW&theme=vision-friendly-dark&show_icons=true)
 
 ![Xavier's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier-WW&theme=graywhite&layout=compact)
