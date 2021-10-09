@@ -1,7 +1,6 @@
 ## Hi there 👋
 <img width="20%" align="right" alt="Github" src="https://github.com/Xavier-WW/Portfolio-three-JS/blob/master/android-chrome-512x512.png" />
 
-Xavier here
 - 🔭 I’m currently working on my react project and two portfolio site; 
 - 🤖 I’m currently testing and remapping🗺️ some new tech;
 - 🌋 Let's see what will come out;
