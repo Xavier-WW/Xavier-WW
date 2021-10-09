@@ -1,9 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+<img width="20%" align="right" alt="Github" src="https://github.com/Xavier-WW/Portfolio-three-JS/blob/master/android-chrome-512x512.png" />
 
+Xavier here
 - 🔭 I’m currently working on my react project and two portfolio site; 
 - 🤖 I’m currently testing and remapping🗺️ some new tech;
 - 🌋 Let's see what will come out;
 - 📂 See my repo below and hope we can discover some fun stuff;
+
  <!--Badge & others-->
  <p align="center">
   <a href="mailto:edisonwei01@gmail.com?subject=Xavier"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
