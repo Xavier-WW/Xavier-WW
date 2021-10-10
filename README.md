@@ -6,6 +6,7 @@
 - 🌋 Let's see what will come out;
 - 📂 See my repo below and hope we can discover some fun stuff;
 
+
  <!--Badge & others-->
  <p align="center">
   <a href="mailto:edisonwei01@gmail.com?subject=Xavier"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
