@@ -13,11 +13,11 @@
   <a href="https://www.linkedin.com/in/xavierww/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
  </p>
-<p>
+
 [![](https://img.shields.io/badge/Windows-10-blue?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Windows%20Server-2012-1234c4?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows-server)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-</p>
+
 <hr/>
 <!--<details>
   <summary><b>:computer: &nbsp;Design Tools</b></summary>
