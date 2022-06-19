@@ -16,7 +16,7 @@
  
 [![](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)](#)
 [![](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)](#)
-[![](https://img.shields.io/badge/-C-f34b7d?style=flat-square&logo=Cplusplus&logoColor=white)](#)
+[![](https://img.shields.io/badge/-C++-f34b7d?style=flat-square&logo=Cplusplus&logoColor=white)](#)
 <!--[![](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)]()-->
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](#)
