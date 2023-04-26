@@ -1,7 +1,7 @@
 ## Hi there 👋
 <img width="20%" align="right" alt="Github" src="https://github.com/Xavier-WW/Portfolio-three-JS/blob/master/android-chrome-512x512.png" />
 
-- 🔭 I’m currently working on CCNA & Franch; 
+- 🔭 I’m currently working on CCNA & French; 
 - 🤖 And testing and remapping🗺️ some new tech;
 - 🌋 Let's see what will be next;
 - 📂 See my repo below and hopefully we can discover some fun stuff;
