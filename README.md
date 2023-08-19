@@ -14,6 +14,7 @@
   </a>
  </p>
  
+![Static Badge](https://img.shields.io/badge/Cisco-CCNA-blue)&nbsp;
 [![](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)](#)&nbsp;
 [![](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)](#)&nbsp;
 [![](https://img.shields.io/badge/-C++-f34b7d?style=flat-square&logo=Cplusplus&logoColor=white)](#)&nbsp;
