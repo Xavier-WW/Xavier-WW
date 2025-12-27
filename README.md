@@ -45,6 +45,7 @@
 \
 \
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier-WW&repo=Portfolio-three-JS&theme=react&layout=compact)](https://github.com/Xavier-WW/Portfolio-three-JS)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xavier-WW&repo=Portfolio-three-JS&theme=nord)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier-WW&repo=Portfolio&theme=buefy&layout=compact)](https://github.com/Xavier-WW/Portfolio)
 \
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier-WW&repo=Degree-project&theme=graywhite&layout=compact)](https://github.com/Xavier-WW/Degree-project)
