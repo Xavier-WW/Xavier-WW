@@ -37,6 +37,10 @@
 ![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;
 ![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;\
 </details>  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier-WW&repo=Portfolio-three-JS&theme=react&layout=compact)](https://github.com/Xavier-WW/Portfolio-three-JS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier-WW&repo=Portfolio&theme=buefy&layout=compact)](https://github.com/Xavier-WW/Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier-WW&repo=Degree-project&theme=graywhite&layout=compact)](https://github.com/Xavier-WW/Degree-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier-WW&repo=IoT-Arduino&theme=nord&layout=compact)](https://github.com/Xavier-WW/IoT-Arduino)
 -->  
 
 
@@ -44,12 +48,11 @@
 <b>:computer: &nbsp;GitHub repos</b>
 \
 \
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier-WW&repo=Portfolio-three-JS&theme=react&layout=compact)](https://github.com/Xavier-WW/Portfolio-three-JS)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xavier-WW&repo=Portfolio-three-JS&theme=nord)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier-WW&repo=Portfolio&theme=buefy&layout=compact)](https://github.com/Xavier-WW/Portfolio)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xavier-WW&repo=Portfolio-Demo&theme=nord)
 \
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier-WW&repo=Degree-project&theme=graywhite&layout=compact)](https://github.com/Xavier-WW/Degree-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xavier-WW&repo=IoT-Arduino&theme=nord&layout=compact)](https://github.com/Xavier-WW/IoT-Arduino)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xavier-WW&repo=Degree-project&theme=nord)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=Xavier-WW&repo=IoT-Arduino&theme=nord)
 
 
  <b>:computer: &nbsp;GitHub Statistics</b>
