@@ -57,9 +57,10 @@
 
  <b>:computer: &nbsp;GitHub Statistics</b>
  
-<!--![Xavier's github Stats](https://github-readme-stats.vercel.app/api?username=Xavier-WW&theme=vision-friendly-dark&show_icons=true&count_private=true)--> 
-![Xavier's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier-WW&theme=vision-friendly-dark&layout=compact&count_private=true)
+<!--![Xavier's github Stats](https://github-readme-stats.vercel.app/api?username=Xavier-WW&theme=vision-friendly-dark&show_icons=true&count_private=true)
+![Xavier's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier-WW&theme=vision-friendly-dark&layout=compact&count_private=true)--> 
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xavier-WW&layout=compact&theme=nord)
 <!--
 **Xavier-WW/Xavier-WW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
